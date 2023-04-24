@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: oktaylor
-  tagline: Developer. AI Engineer
+  tagline: AI Engineer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -27,9 +27,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    # twitter: samarsault
+    github:  oktaylor
+    linkedIn: in/donghwa-kang-153b9022b/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -39,7 +39,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: oktaylor19@gmail.com
 
     # Mastodon instances
     # mastodon:
