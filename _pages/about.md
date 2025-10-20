@@ -29,7 +29,7 @@ I completed my B.S. in Electronic and Electrical Engineering from Hongik Univers
 
 Moving forward, I aim to apply and expand my expertise to tackle challenges at the intersection of **human cognition, gaze, and robotics**, with the goal of developing systems that can more intuitively understand and interact with people.
 
-For a comprehensive overview of my work, please see my [list of publications](/al-folio/publications/). My current research interests include:
+For a comprehensive overview of my work, please see my [list of publications](https://oktaylor.github.io/publications/). My current research interests include:
 - Computer Vision 
 - Multi-modal Learning 
 - Event-based Vision 
