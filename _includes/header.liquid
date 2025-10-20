@@ -45,6 +45,15 @@
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
+        <a class="nav-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+          </li>
+        {% endif %}
+        {% endfor %}
+
+        <li class="nav-item">
+          <a class="nav-link" href="/blog">Blog</a>
+        </li>
+        {% if site.search_enabled %}
 
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
