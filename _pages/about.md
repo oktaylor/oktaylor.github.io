@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Student @HIU
+subtitle: Ph.D. Student in Computer Science @ UMD
 
 profile:
   align: right
@@ -23,16 +23,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Master's student and Graduate Research Assistant in the [Image Understanding Lab](https://sites.google.com/view/iulabhongik/home) at [Hongik University](https://www.hongik.ac.kr/kr/index.do), working under the supervision of [Prof. Dongwoo Kang](https://ee.hongik.ac.kr/ee/0201.do?mode=view&deptCd=AAB160&S1=2021&S2=10002). My research is centered at the intersection of **computer vision, multi-modal learning, and event-based vision, with a focus on facial analysis and eye tracking**. I develop novel frameworks that using both event and RGB data, such as creating cross-modal fusion attention modules for facial keypoint alignment and adapting remote eye tracking systems for facial data. My research combines deep learning theory with practical implementation to address challenges in high-speed, dynamic visual understanding, such as gaze tracking for driver monitoring, and AR/XR systems.
+I am currently a Ph.D. student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu/), where I am affiliated with the Perception and Robotics Group (PRG). My research interests lie in **multimodal learning and event-based sensing**. I am particularly interested in how information from different modalities and sensors can be effectively combined to understand real-world environments.
 
-I completed my B.S. in Electronic and Electrical Engineering from Hongik University. During my undergraduate studies, I served as an Undergraduate Research Assistant in the same lab, where my work focused on improving pupil detection robustness under large head rotations and exploring the use of human pose estimation for Korean Sign Language translation in medical contexts.
+Before joining UMD, I received my M.S. and B.S. in Electronic and Electrical Engineering from [Hongik University](https://www.hongik.ac.kr/kr/index.do), where I worked in the [Image Understanding Lab](https://sites.google.com/view/iulabhongik/home) under the supervision of [Prof. Dongwoo Kang](https://ee.hongik.ac.kr/ee/0201.do?mode=view&deptCd=AAB160&S1=2021&S2=10002).
 
-Moving forward, I aim to apply and expand my expertise to tackle challenges at the intersection of **human cognition, gaze, and robotics**, with the goal of developing systems that can more intuitively understand and interact with people.
+During my master's studies, my research focused on multimodal visual sensing, particularly RGB and event-camera data. I worked on cross-modal fusion for facial keypoint alignment and event-based approaches to remote eye tracking. My earlier research also included robust pupil detection under large head rotations and human pose estimation for Korean Sign Language translation.
 
-For a comprehensive overview of my work, please see my [list of publications](https://oktaylor.github.io/publications/). My current research interests include:
-- Computer Vision 
-- Multi-modal Learning 
-- Event-based Vision 
-- Facial Analysis & Eye Tracking
+For a comprehensive overview of my work, please see my [list of publications](https://oktaylor.github.io/publications/).
 
-Feel free to reach to me at **donghwa@g.hongik.ac.kr**
+My current research interests include:
+
+- Multimodal Learning
+- Cross-modal Learning
+- Event-based Sensing
+
+Feel free to reach me at **dhkang@umd.edu**
