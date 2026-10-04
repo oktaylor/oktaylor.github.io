@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "You can download the PDF by clicking the icon on the right.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -452,7 +452,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%6F%6E%67%68%77%61@%67.%68%6F%6E%67%69%6B.%61%63.%6B%72", "_blank");
+          window.open("mailto:%64%68%6B%61%6E%67@%75%6D%64.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=Yw4QqlIAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=bwQub3kAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
